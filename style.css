@@ -1,0 +1,30 @@
+body{
+    background-image: url('img/nba-wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img{
+    width: 50%;
+}
+
+h1, h2, p, a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+td{
+    text-align: center;
+}
+
+td:hover{
+    background-color: rgb(56, 161, 231);
+}
+
+.teamNames{
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
